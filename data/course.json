@@ -1,0 +1,57 @@
+{
+  "term": "Spring",
+  "year": "2015",
+  "level": [
+    "Undergraduate",
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Political Science"
+    ],
+    [
+      "Social Science",
+      "Urban Studies"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Military Studies"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Security Studies"
+    ]
+  ],
+  "legacy_uid": "921ab871-a8a3-0ddd-3974-3736245d0fdb",
+  "instructors": {
+    "content": [
+      "47854d4b-a33e-42fd-163e-8bdaaaa19108"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "e27db152-e634-e4b2-b217-97db351f3817",
+    "website": "17-482-u-s-military-power-spring-2015"
+  },
+  "course_title": "U.S. Military Power",
+  "course_description": "The purpose of this course is to acquaint the student with the missions, capabilities, and costs of the largely non-nuclear forces that make up the bulk of the U.S. military establishment. The course will also introduce the student to basic techniques for the assessment of relative military capabilities between adversaries in given theaters of military action. Central to the course will be an examination of historical cases of military action that shed light on current defence issues. Many of these cases are recent.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "17.483",
+  "primary_course_number": "17.482",
+  "course_image_thumbnail": {
+    "content": "9d16ec67-af45-576a-b402-bb92754c7c59",
+    "website": "17-482-u-s-military-power-spring-2015"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "6705f88c-472f-4ef4-8649-8cd668045b00",
+  "site_short_id": "17.482-spring-2015",
+  "site_url_path": "courses/17-482-u-s-military-power-spring-2015",
+  "title": "Course Metadata"
+}
